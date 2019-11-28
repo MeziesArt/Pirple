@@ -2,3 +2,8 @@ h1{
     background-color: aqua;
     font-style: italic;
 }
+footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
